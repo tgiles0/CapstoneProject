@@ -3,6 +3,7 @@
 This repository contains several Python scripts that were used in the data cleansing 
 and preparation phase.
 
+##Data Analysed from Splunk Boss of The SOC
 Data cleansed by this scripts was retrieved from the splunk/botsv1 repository and as it
 was exported directly from Splunk the raw data fields were all bunched together in one 
 column of csv files of this data. Our Capstone team wanted to further analyze the important
